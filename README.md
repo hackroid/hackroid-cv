@@ -1,6 +1,6 @@
-# Hackroid's CV >_<
+# Hackroid's CV >_< （Deprecated, new cv see [cv-new](https://github.com/hackroid/cv-new)）
 
-##About
+## About
 
 Hackroid's latest version resume made with XeLaTeX. It's forked from [**friggeri-cv-a4**](https://github.com/depressiveRobot/friggeri-cv-a4) under MIT license.
 
@@ -11,7 +11,7 @@ Hackroid's latest version resume made with XeLaTeX. It's forked from [**friggeri
 Run `make pdf` to create the PDF (`cv.pdf`).
 See `make help` for an overview of available targets.
 
-##Dependencies
+## Dependencies
 
 * TikZ (header)
 * XeTex and fontspec (custom fonts)
